@@ -1,4 +1,4 @@
-# ![Homiva Logo](icons/logo.svg) Homiva
+# <img src="https://raw.githubusercontent.com/greatcode-build/homiva-landing-page/main/public/icons/logo.svg" width="40" style="vertical-align: -6px; margin-right: 8px;" /> Homiva
 
 A modern, responsive real estate landing page built with React, TypeScript, and Vite. Homiva showcases luxury properties, company information, and client testimonials with smooth animations and a clean design.
 
