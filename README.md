@@ -1,4 +1,4 @@
-# Homiva
+# ![Homiva Logo](icons/logo.svg) Homiva
 
 A modern, responsive real estate landing page built with React, TypeScript, and Vite. Homiva showcases luxury properties, company information, and client testimonials with smooth animations and a clean design.
 
